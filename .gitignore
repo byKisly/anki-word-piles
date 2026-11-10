@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+*.anki2*
+*.colpkg
+*.apkg
+meta.json
+user_files/
+/dist
